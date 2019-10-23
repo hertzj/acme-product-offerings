@@ -19,7 +19,7 @@ body {
     flex-grow: 1.5;
     color: white;
     border-radius: 2rem;
-    width: 40%
+    width: 40%;
 }
 
 .productHighlight {
@@ -34,7 +34,9 @@ body {
     width: 40%;
 }
 
-
+.hidden {
+    display: none
+}
 
 a {
     color: white
